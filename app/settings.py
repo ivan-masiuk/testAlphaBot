@@ -33,7 +33,7 @@ INSTALLED_APPS = [
 
     # additional apps
     'custom_acc',
-    'telegramBotApp'
+    'telegram_bot_app'
 ]
 
 MIDDLEWARE = [

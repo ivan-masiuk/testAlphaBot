@@ -10,7 +10,7 @@ django.setup()
 import telebot
 
 from app.settings import API_TOKEN
-from telegramBotApp.services import *
+from telegram_bot_app.services import *
 
 bot = telebot.TeleBot(API_TOKEN)
 
